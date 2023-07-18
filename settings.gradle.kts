@@ -1,4 +1,4 @@
-rootProject.name = "emerald-indicator"
+rootProject.name = "emeraldindicator"
 
 pluginManagement {
     val labyGradlePluginVersion = "0.3.28"
