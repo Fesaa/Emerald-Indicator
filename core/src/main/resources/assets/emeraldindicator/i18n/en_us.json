@@ -1,0 +1,13 @@
+{
+  "emeraldindicator": {
+    "settings": {
+      "name": "Emerald Indicator",
+      "enabled": {
+        "name": "Enabled"
+      },
+      "scale": {
+        "name": "Scale"
+      }
+    }
+  }
+}
