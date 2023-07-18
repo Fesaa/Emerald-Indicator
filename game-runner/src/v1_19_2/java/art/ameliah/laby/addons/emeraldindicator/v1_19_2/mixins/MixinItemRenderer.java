@@ -1,6 +1,6 @@
 package art.ameliah.laby.addons.emeraldindicator.v1_19_2.mixins;
 
-import art.ameliah.laby.addons.emeraldindicator.core.core.EmeraldIndicatorAddon;
+import art.ameliah.laby.addons.emeraldindicator.core.EmeraldIndicatorAddon;
 import com.mojang.blaze3d.vertex.PoseStack;
 import net.minecraft.client.renderer.MultiBufferSource;
 import net.minecraft.client.renderer.block.model.ItemTransforms;

@@ -1,4 +1,4 @@
-package art.ameliah.laby.addons.emeraldindicator.core.core;
+package art.ameliah.laby.addons.emeraldindicator.core;
 
 import net.labymod.api.addon.AddonConfig;
 import net.labymod.api.client.gui.screen.widget.widgets.input.SliderWidget.SliderSetting;

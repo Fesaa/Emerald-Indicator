@@ -1,4 +1,4 @@
-package art.ameliah.laby.addons.emeraldindicator.core.core;
+package art.ameliah.laby.addons.emeraldindicator.core;
 
 import net.labymod.api.addon.LabyAddon;
 import net.labymod.api.models.addon.annotation.AddonMain;
