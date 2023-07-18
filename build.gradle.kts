@@ -16,7 +16,7 @@ labyMod {
         displayName = "Emerald Indicator"
         author = "Amelia"
         description = "Emeraldus Bigus"
-        minecraftVersion = "1.19>"
+        minecraftVersion = "*"
         version = System.getenv().getOrDefault("VERSION", "0.0.1")
     }
 

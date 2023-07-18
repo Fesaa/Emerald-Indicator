@@ -1,4 +1,4 @@
-package art.ameliah.laby.addons.emeraldindicator.v1_20_1.mixins.mixins;
+package art.ameliah.laby.addons.emeraldindicator.v1_20_1.mixins;
 
 import art.ameliah.laby.addons.emeraldindicator.core.EmeraldIndicatorAddon;
 import com.mojang.blaze3d.vertex.PoseStack;
