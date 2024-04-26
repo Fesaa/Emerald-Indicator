@@ -7,8 +7,6 @@ plugins {
 group = "org.example"
 version = "1.0.0"
 
-java.toolchain.languageVersion.set(JavaLanguageVersion.of(17))
-
 labyMod {
     defaultPackageName = "art.ameliah.laby.addons.emeraldindicator" //change this to your main package name (used by all modules)
     addonInfo {
@@ -28,6 +26,7 @@ labyMod {
                 "1.20.1",
                 "1.20.2",
                 "1.20.4",
+                "1.20.5"
         ) { version, provider ->
             configureRun(provider, version)
         }
@@ -70,7 +69,7 @@ fun configureRun(provider: net.labymod.gradle.core.minecraft.provider.VersionPro
 
     provider.javaVersion = when (gameVersion) {
         else -> {
-            JavaVersion.VERSION_17
+            JavaVersion.VERSION_21
         }
     }
 
